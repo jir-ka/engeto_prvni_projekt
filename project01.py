@@ -2,7 +2,7 @@ import task_template
 
 regUsers = {'bob': '123', 'ann': 'pass123', 'mike': 'password123', 'liz': 'pass123'}
 texts = task_template.TEXTS
-state = 'analyze'
+state = 'login'
 
 
 # -------------------------------------------fANALYZE---------------------------------------------------
